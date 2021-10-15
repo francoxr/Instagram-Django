@@ -1,0 +1,1 @@
+This a directory containing a scripts files for construction the data into databse 

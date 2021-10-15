@@ -1,0 +1,22 @@
+{% extends "users/base_user.html" %}
+
+
+{% block head_content %}
+
+    <title>Sing Up</title>
+
+{% endblock %}
+
+
+
+{% block container %}
+
+    <form method="POST" action="{% url "users:signup"%}">
+
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary btn-block mt-2">Register!</button>
+
+    </form>
+
+{% endblock%}
