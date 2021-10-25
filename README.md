@@ -2,7 +2,7 @@
 
 Create a minimal project (inspired by instagram) in Django.
 
-![](https://i.imgur.com/4VotR0d.png)
+![](https://i.imgur.com/AZraev3.png)
 
 ## Dependencies
 Python 3
