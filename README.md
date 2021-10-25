@@ -5,12 +5,12 @@ Create a minimal project (inspired by instagram) in Django.
 ![](https://i.imgur.com/AZraev3.png)
 
 ## Dependencies
-Python 3
+Python 3.7
 Django
 
 ## Usage
 ```shell
-python3 -m venv .env
+python3.7 -m virtualenv venv
 source .env/bin/activate
 pip install -r requirements.txt
 ```
@@ -28,4 +28,4 @@ python manage.py runserver
 [This project is under MIT License](https://opensource.org/licenses/MIT)
 
 ## Author
-[Pablo Trinidad](https://github.com/pablotrinidad) | 2018
+[Franco Roca](https://github.com/francoxr) | 2021
