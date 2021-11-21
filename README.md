@@ -4,6 +4,22 @@ Create a minimal project (inspired by instagram) in Django.
 
 ![](https://i.imgur.com/AZraev3.png)
 
+
+## Features
+- Creation and login for users <br>
+- Creation of  posts ( photo with description )<br>
+- Feed for see posts of other users<br>
+- Users details and button with follow<br>
+- Counter of followers for each user<br>
+
+## Technologies
+- Python
+- Django
+- PostgreSQL
+- CSS
+- HTML
+- Bootstrap
+
 ## Dependencies
 Python 3.7
 Django
